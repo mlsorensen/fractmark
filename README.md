@@ -44,12 +44,10 @@ MY RESULTS
 
 default settings-
 
-Atom CPU D525 dual core                 FractMark score: 3.46
-Core 2 E6600 2.4GHz dual core           FractMark score: 11.32
-
-Pentium E6500 2.93GHz dual core         FractMark score: 13.91 
-
-Xeon X3360 2.83GHz quad core            FractMark score: 27.06
-Core i7-2600 3.4GHz quad core           FractMark score: 47.86
-Dual AMD Opteron 6274 (32 cores)        FractMark score: 90.57
-Dual Xeon E5-2650 2GHz (16/32 core/thr) FractMark score: 135.23
+* Atom CPU D525 dual core                 FractMark score: 3.46
+* Core 2 E6600 2.4GHz dual core           FractMark score: 11.32
+* Pentium E6500 2.93GHz dual core         FractMark score: 13.91 
+* Xeon X3360 2.83GHz quad core            FractMark score: 27.06
+* Core i7-2600 3.4GHz quad core           FractMark score: 47.86
+* Dual AMD Opteron 6274 (32 cores)        FractMark score: 90.57
+* Dual Xeon E5-2650 2GHz (16/32 core/thr) FractMark score: 135.23
