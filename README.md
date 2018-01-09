@@ -9,7 +9,7 @@ The O3 gives roughly a 3x execution speedup in my tests, most likely due to auto
 I have also successfully compiled and run it under Windows 7 x64, using MinGW and the GD windows libraries. This can be downloaded as a package, unzipped to your desktop, a USB thumb drive, or wherever and run in a cmd shell as-is.
 
 USAGE
-
+```
 [ms@server ~]# ./fractmark -h
 
 FractMark 0.2 (02/07/2011) by Marcus Sorensen
@@ -40,6 +40,8 @@ OPTIONS:
   -g INTEGER    Green bias of image (0-255)
   -b INTEGER    Blue bias of image (0-255)
   -h            Print this help dialog and exit
+```
+
 MY RESULTS
 
 default settings-
